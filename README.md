@@ -17,7 +17,7 @@ A **Power BI dashboard** was created to visualize content distribution, average 
 
 ## 🛠️ Tools Used
 - **Power BI** – Dashboard creation & visualization  
-- **Excel** – Dataset cleaning & preparation  
+- **Excel** – Dataset observation & preparation  
 
 ---
 
